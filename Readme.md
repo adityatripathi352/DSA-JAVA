@@ -1,31 +1,18 @@
-DSA-Journey/
-│
-├── Arrays/
-│   ├── TwoSum.cpp
-│   └── MaximumSubarray.cpp
-│
-├── Strings/
-│   └── ReverseString.cpp
-│
-├── Searching/
-│   └── BinarySearch.cpp
-│
-├── Sorting/
-│   └── MergeSort.cpp
-│
-├── LinkedList/
-│
-├── Stack/
-│
-├── Queue/
-│
-├── Trees/
-│
-├── Graphs/
-│
-├── DynamicProgramming/
-│
-└── README.md
+# DSA-CPP
+
+My Data Structures and Algorithms journey using C++.
+
+## Topics
+- Arrays
+- Strings
+- Sorting
+- Searching
+- Recursion
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+
 ## LeetCode Progress
 
 | No. | Problem Name | Topic | Difficulty | Status |
