@@ -1,6 +1,6 @@
-# DSA-CPP
+# DSA-JAVA
 
-My Data Structures and Algorithms journey using C++.
+My Data Structures and Algorithms journey using JAVA.
 
 ## Topics
 - Arrays
